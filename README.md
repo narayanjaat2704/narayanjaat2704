@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**narayanjaat2704/narayanjaat2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Narayan Lal Jat
 
-Here are some ideas to get you started:
+### Java Developer | Spring Boot Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science Graduate from Government Engineering College, Bikaner.
+
+💻 Interested in Backend Development and Software Engineering.
+
+🌱 Currently learning and building projects using Java and Spring Boot.
+
+## 🚀 Technical Skills
+
+- **Languages:** Core Java
+- **Backend:** Spring Boot, Spring Data JPA, Hibernate, REST APIs
+- **Database:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Maven, Postman
+- **Core Concepts:** OOPs, DSA, DBMS
+
+## 📂 My Projects
+
+### 1. SpringDataJpaDemo
+Spring Boot project using Spring Data JPA, Hibernate and PostgreSQL.
+
+### 2. Spring Security
+Learning and implementing authentication and authorization using Spring Security.
+
+### 3. Java Practice
+Java programming concepts and problem-solving practice.
+
+## 🎯 Current Goals
+
+- Improve Java and DSA skills.
+- Build real-world Spring Boot projects.
+- Learn backend development and REST API design.
+
+## 📫 Connect With Me
+
+- GitHub: [@narayanjaat2704](https://github.com/narayanjaat2704)
+
+---
+⭐ Thanks for visiting my profile!
+
